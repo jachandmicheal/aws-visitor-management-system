@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+nohup.out
+log.txt
+.env
+app_backup.py
+app_new.py
